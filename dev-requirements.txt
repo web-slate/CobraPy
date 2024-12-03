@@ -1,0 +1,3 @@
+pyinstaller
+flake8
+pytest
