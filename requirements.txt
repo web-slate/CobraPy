@@ -3,5 +3,3 @@ uvicorn
 cython
 memory_profiler
 psutil
-pyinstaller
-cythonize
