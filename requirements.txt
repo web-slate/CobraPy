@@ -3,3 +3,4 @@ uvicorn
 cython
 memory_profiler
 psutil
+autopep8

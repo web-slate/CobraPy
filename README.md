@@ -32,3 +32,9 @@ mv dist/math_api static/
 ```
 python setup.py build_ext --inplace
 ```
+
+## Command to Fix All Files
+
+```
+autopep8 --in-place --aggressive --aggressive *.py
+```
