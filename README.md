@@ -1,6 +1,13 @@
 # CobraPy
 Suggests agility and power, suitable for a versatile Python project.
 
+## Create Virtual Environment
+
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
 ## Installation Command
 
 ```
